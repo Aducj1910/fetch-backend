@@ -1,0 +1,41 @@
+1. Choice of tools, libraries, and languages:
+
+I chose Flask for its simplicity and ease of use in setting up APIs 
+in Python, allowing for rapid development. In addition to this, I 
+also have experience in using Flask for various projects before thus 
+allowing me to finish it faster. For the database, I chose SQLite3 
+since it's extremely lightweight, easy to install, and works well 
+with Flask applications. The combination of Python Flask and SQLite3 
+is ideal for an application like this due to its tried-and-tested 
+nature and also because I have vast experience in using both 
+frameworks/tools and the language.
+
+2. Advantages and disadvantages of my solution:
+
+The main advantage of my solution is its simplicity and efficiency. 
+Using Flask and SQLite3 allowed for quick development, perfect for 
+small projects. The API is straightforward and the code is easy to 
+read with try-except blocks to ensure the Flask application doesn't 
+crash due to incorrect input. 
+One of the disadvantages in using SQLite 3 might be the scalability, 
+also since we don't know who is accessing the API, this application 
+could be susceptible to SQL injection attacks which can be easily 
+countered in the future using prepared statements or input 
+sanitization.
+
+3. My most exciting project:
+
+My most exciting project that I have worked on so far has been 
+enRollBadge.com (you can access it!). It's an automatic course 
+enrollment notification system we built for UW-Madison students. It 
+has over 1000 active users and the College of Letters & Sciences 
+even expressed their admiration. I worked on the backend, handling a 
+vast amount of data, scripting with Python to constantly hit public 
+APIs, store the information collected and send out automated emails 
+to subscribers. The project used a similar tech stack for the 
+backend to this exercise (Python, Flask, SQLite3). One of the key 
+challenges was managing large-scale data scraping and email 
+automation reliably, setting up cronjobs, and learning how to 
+host the app using Linux, Nginx, and DigitalOcean. Overall, I am 
+extremely proud of all I learnt from this project and how many 
+people it has helped at our school.
