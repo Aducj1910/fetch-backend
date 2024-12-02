@@ -1,14 +1,12 @@
 1. Choice of tools, libraries, and languages:
 
 I chose Flask for its simplicity and ease of use in setting up APIs 
-in Python, allowing for rapid development. In addition to this, I 
-also have experience in using Flask for various projects before thus 
-allowing me to finish it faster. For the database, I chose SQLite3 
+in Python, allowing for rapid development. For the database, I chose SQLite3 
 since it's extremely lightweight, easy to install, and works well 
 with Flask applications. The combination of Python Flask and SQLite3 
 is ideal for an application like this due to its tried-and-tested 
 nature and also because I have vast experience in using both 
-frameworks/tools and the language.
+frameworks/tools and the language for various projects/hackathons in the past.
 
 2. Advantages and disadvantages of my solution:
 
