@@ -49,4 +49,7 @@ python3 app.py
 
 ### Step 3: Accessing the Application
 POST requests can be accessed using curl or Postman, while GET requests can be accessed using curl or Postman and also just a browser window.
-```
+
+### Note
+Please contact me should you have any issues running the application. Thank you!
+
